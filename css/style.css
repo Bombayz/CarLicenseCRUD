@@ -1,0 +1,49 @@
+.margin {
+                margin:15px;
+            }
+            
+.clear {
+    clear: both;
+}            
+
+.main-box{
+    background: rgb(255, 255, 255)
+
+}
+
+.float-left{
+    float: left;
+    width: 100px;
+    margin-right:5px;
+}
+
+
+
+.card{
+    background: rgb(255, 255, 255);
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.15);
+    transition: all .2s ease-in-out;
+    border-radius: 5px; 
+    margin: 20px;
+    position: relative;
+    margin-bottom: 50px;
+    padding: 1%;
+}
+
+.cardinsert{
+    /*transition: opacity 1s ease-in-out;
+    opacity: 0;*/
+    display: none;
+}
+
+#cardShow{
+    display: none;
+}
+
+
+
+/*.btn-primary:hover{
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  transition: all 0.3s;
+  transform: translateZ(10px);
+}*/
