@@ -4,11 +4,11 @@
 #BackEnd
 - php 5
 
-#FontEnd
+# FontEnd
 - Javascript
 - Bootstrap
 
-#Framework 
+# Framework 
 - Medoo database framework
 - Jquery
 - API
